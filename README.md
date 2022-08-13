@@ -1,6 +1,8 @@
 # 6/6 React sessions covered (Postman and STS needed).
 ## Navigate
-### Use CRTL + F to search and navigate through the 83 retro steps available.
+### Use ctrl+F to search and navigate through the 83 retro steps available.
+
+------------------------------------------------------------------------------
 
 # Getting Started with Create React App
 
